@@ -1,0 +1,15 @@
+All relevant dataset can be downloaded directly from the Open Data BCN Ajuntament de Barcelona's open data service.
+
+Streets:
+https://opendata-ajuntament.barcelona.cat/data/en/dataset/mapa-graf-viari-carrers-wms
+
+Buildings:
+https://opendata-ajuntament.barcelona.cat/data/en/dataset/mapa-base-topografic
+
+Trees:
+https://opendata-ajuntament.barcelona.cat/data/en/dataset/arbrat-zona
+https://opendata-ajuntament.barcelona.cat/data/en/dataset/arbrat-viari
+https://opendata-ajuntament.barcelona.cat/data/en/dataset/arbrat-parcs
+
+LandUse
+https://opendata-ajuntament.barcelona.cat/data/en/dataset/mapa-usos-sol-wms
